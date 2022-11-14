@@ -1,0 +1,45 @@
+#pep {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#count-el{
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#count-el-prev {
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#increment-btn {
+    height: 60px;
+    width: 180px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color:  rgb(4, 29, 92);
+    border-radius: 4px;
+    color: white;
+}
+#increment-btn:hover{
+    background-color: #074398 ;
+    box-shadow: inset;
+}
+
+body {
+    background-image: url(winter-landscape-with-street-cafe-under-the-tree-vector-22909562.jpg);
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container {
+    backdrop-filter: blur(3px);
+    background: white;
+    max-width: 50%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
